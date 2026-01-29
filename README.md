@@ -3,7 +3,8 @@
 Realtime 3D ASCII cylinder renderer in C++ with Z-Buffering and Shading. (No Raytracing)
 
 # DEMO
-!\[ASCII 3D Cylinder Demo](demo/cylinderASCII.gif)
+
+![cylinder](https://github.com/user-attachments/assets/b0e36b4c-8034-4659-9325-c90f1d309bba)
 
 
 # Yappinng AHEAD!!!
