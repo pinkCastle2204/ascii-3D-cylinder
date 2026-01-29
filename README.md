@@ -13,7 +13,7 @@ UHmmm....
 Yeah this project was **INSPIRED** by the famous ASCII 3D donut renderer by Andy Sloane, which uses clever math and perspective to animate a rotating torus in a text terminal:  
 https://www.a1k0n.net/2011/07/20/donut-math.html
 
-While the original renders a torus, I thought it would be cool to try rendering render a **CYLINDER** with shading and depth buffering.
+While the original renders a torus, I thought it would be cool to try rendering a **CYLINDER** with shading and depth buffering.
 Also cylinder was chosen because cylinderical coordinates are much easier to understand.
 
 
